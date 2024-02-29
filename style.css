@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h4,p{
+    color: white;
+}
+span,i{
+    color: mediumturquoise;
+}
+i{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.text{
+    margin-top: 100px;
+}
+.image img{
+    margin: 100px 0 0 150px;
+    border-radius: 100%;
+    height: 350px;
+    width: 350px;
+    border: 10px solid mediumturquoise  ;
+}
+button{
+    margin-top: 30px;
+    border: none;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: mediumturquoise;
+}
+button a{
+    text-decoration: none;
+    font-weight: bold;
+}
